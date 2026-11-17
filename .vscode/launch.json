@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Кітапхана мәзірін іске қосу",
+            "request": "launch",
+            "mainClass": "kz.library.Main",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "ООП демонстрациясын іске қосу",
+            "request": "launch",
+            "mainClass": "kz.library.Main",
+            "args": "--demo",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
